@@ -1,1 +1,1 @@
-This file is an overview
+This file contains practice project for learning python
